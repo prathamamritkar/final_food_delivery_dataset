@@ -1,0 +1,6 @@
+Q1: Total orders by Gold members: 4987
+Q2: Total revenue in Hyderabad: 1889367
+Q3: Distinct users who ordered: 2883
+Q4: Average order value for Gold members: 797.15
+Q5: Orders for restaurants with rating >= 4.5: 3374
+Q6: Orders in the top gold-revenue city (Chennai): 1337
